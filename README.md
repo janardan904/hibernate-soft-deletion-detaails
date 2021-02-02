@@ -1,0 +1,1 @@
+# hibernate-soft-deletion-detaails
